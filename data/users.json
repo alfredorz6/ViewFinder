@@ -1,0 +1,98 @@
+{
+    "demo":
+      {
+        "name": "demo",
+        "email": "demo@demo.com",
+        "password":
+          "$2a$10$ZUjwjnBIlOfhDVN/PqYzh.3d/7OLjzo.5/2CGFM//4zHDQhh/OcPW",
+          "date": "2021-06-18T04:16:14.250+00:00"
+          
+      },
+    "Safa":
+      {
+        "name": "Safa",
+        "email": "a@user.com",
+        "password":
+          "$2a$10$ZUjwjnBIlOfhDVN/PqYzh.3d/7OLjzo.5/2CGFM//4zHDQhh/OcPW",
+          "date": "2021-06-18T04:16:14.250+00:00"
+      },
+    "Keisha":
+      {
+        "name": "Keisha",
+        "email": "b@user.com",
+        "password":
+          "$2a$10$ZUjwjnBIlOfhDVN/PqYzh.3d/7OLjzo.5/2CGFM//4zHDQhh/OcPW",
+          "date": "2021-06-18T04:16:14.250+00:00"
+      },
+    "Mike":
+      {
+        "name": "Mike",
+        "email": "c@user.com",
+        "password":
+          "$2a$10$ZUjwjnBIlOfhDVN/PqYzh.3d/7OLjzo.5/2CGFM//4zHDQhh/OcPW",
+          "date": "2021-06-18T04:16:14.250+00:00"
+      },
+    "Monica":
+      {
+        "name": "Monica",
+        "email": "d@user.com",
+        "password":
+          "$2a$10$ZUjwjnBIlOfhDVN/PqYzh.3d/7OLjzo.5/2CGFM//4zHDQhh/OcPW",
+          "date": "2021-06-18T04:16:14.250+00:00"
+      },
+    "Seth":
+      {
+        "name": "Seth",
+        "email": "e@user.com",
+        "password":
+          "$2a$10$ZUjwjnBIlOfhDVN/PqYzh.3d/7OLjzo.5/2CGFM//4zHDQhh/OcPW",
+          "date": "2021-06-18T04:16:14.250+00:00"
+      }, 
+
+
+
+
+
+    "Hannah":
+      {
+        "name": "Hannah",
+        "email": "f@user.com",
+        "password":
+          "$2a$10$ZUjwjnBIlOfhDVN/PqYzh.3d/7OLjzo.5/2CGFM//4zHDQhh/OcPW",
+          "date": "2021-06-18T04:16:14.250+00:00"
+      },
+    "Sebastian":
+      {
+        "name": "Sebastian",
+        "email": "g@user.com",
+        "password":
+          "$2a$10$ZUjwjnBIlOfhDVN/PqYzh.3d/7OLjzo.5/2CGFM//4zHDQhh/OcPW",
+          "date": "2021-06-18T04:16:14.250+00:00"
+      },
+    "Ignacio":
+      {
+        "name": "Ignacio",
+        "email": "h@user.com",
+        "password":
+          "$2a$10$ZUjwjnBIlOfhDVN/PqYzh.3d/7OLjzo.5/2CGFM//4zHDQhh/OcPW",
+          "date": "2021-06-18T04:16:14.250+00:00"
+      },
+    "Aria":
+      {
+        "name": "Aria",
+        "email": "i@user.com",
+        "password":
+          "$2a$10$ZUjwjnBIlOfhDVN/PqYzh.3d/7OLjzo.5/2CGFM//4zHDQhh/OcPW",
+          "date": "2021-06-18T04:16:14.250+00:00"
+      },
+    "Sakiko":
+      {
+        "name": "Sakiko",
+        "email": "j@user.com",
+        "password":
+          "$2a$10$ZUjwjnBIlOfhDVN/PqYzh.3d/7OLjzo.5/2CGFM//4zHDQhh/OcPW",
+          "date": "2021-06-18T04:16:14.250+00:00"
+      }
+  }
+
+  

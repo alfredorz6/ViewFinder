@@ -1,0 +1,95 @@
+@fontface {
+  font-family: "Oleo Script", cursive;
+  src: url("https://fonts.googleapis.com/css2?family=Nova+Flat&display=swap");
+}
+
+.footer-component-block {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 15%;
+  width: 100%;
+  padding: 0;
+}
+
+.footer-component {
+  text-align: left;
+  display: flex;
+  flex-direction: row;
+  padding-top: 10px;
+  color: white;
+  font-size: 12px;
+  font-family: "Nova Flat", cursive;
+  margin: 0px 0px;
+  justify-content: space-between;
+  line-height: 1.5;
+  margin-bottom: 5px;
+}
+
+.footer-column {
+  margin: 0px 70px;
+  align-items: center;
+  align-content: center;
+}
+
+.footer-header {
+  font-weight: bold;
+  font-size: 16px;
+  padding-left: 10px;
+  text-align: center;
+  width: 100%;
+}
+
+.footer-logo {
+  height: 20px;
+  width: 20px;
+  background-color: white;
+  border-radius: 50%;
+  border: none;
+}
+
+a .footer-logo {
+  margin: 0px 15px;
+  margin-right: 0px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  color: white;
+  text-decoration: none;
+}
+
+.footer-component-block {
+  background-attachment: fixed, fixed, fixed;
+  background-image: url(../../assets/images/sf1.jpg),
+  linear-gradient(45deg, #9dc66b 5%, #4fa49a 30%, #4361c2);
+  background-position: top left, center center, center center;
+  background-size: cover;
+  overflow: hidden;
+}
+
+* {
+  font-family: "Oleo Script", cursive;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.footer-list {
+  color: white;
+  text-decoration: none;
+  align-items: flex-start;
+  align-content: flex-start;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.footer-links {
+  text-decoration: none;
+  color: white;
+}
+
+.text-block {
+  margin-left: 14px;
+}
